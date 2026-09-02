@@ -1,1 +1,2 @@
 Alteração realizada na Branch da aula 01/09/2026.
+Alteração realizada no clone para teste de push e pull.
