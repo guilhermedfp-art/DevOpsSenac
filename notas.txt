@@ -1,3 +1,4 @@
 Alteração realizada na Branch da aula 01/09/2026.
 Alteração realizada no clone para teste de push e pull.
 Alteração do Ambiente B na aula 01/09/2026.
+Alteração do Ambiente A na aula 01/09/2026.
